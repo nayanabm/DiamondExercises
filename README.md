@@ -1,1 +1,3 @@
 # DiamondExercises
+
+trial commit
